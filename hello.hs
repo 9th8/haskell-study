@@ -1,3 +1,2 @@
 main = do
-  print "Hello World!"
-  print "Goodbye"
+  print "Hello Vova!"
