@@ -1,2 +1,3 @@
 main = do
-  print "Hello Vova!"
+  print "Hello \
+    \Vova!"
